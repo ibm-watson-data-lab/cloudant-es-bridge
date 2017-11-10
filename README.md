@@ -2,7 +2,7 @@
 
 This is a serverless function that moves data from a Cloudant database to an ElasticSearch cluster. Any adds/updates/deletes that happen on the Cloudant database are reflected in the ElasticSearch copy.
 
-![schematic](images/cloudant-es-bridge.png)
+![schematic](image/cloudant-es-bridge.png)
 
 ## Pre-requisites
 
