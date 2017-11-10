@@ -1,0 +1,25 @@
+{
+  "name": "cloudant-es-bridge",
+  "version": "1.0.0",
+  "description": "Coudant-to-ElasticSearch serverless bridge",
+  "main": "action.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibm-watson-data-lab/cloudant-es-bridge.git"
+  },
+  "keywords": [
+    "Cloudant",
+    "ElasticSearch",
+    "Serverless",
+    "OpenWhisk"
+  ],
+  "author": "Glynn Bird <glynn.bird@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ibm-watson-data-lab/cloudant-es-bridge/issues"
+  },
+  "homepage": "https://github.com/ibm-watson-data-lab/cloudant-es-bridge#readme"
+}
