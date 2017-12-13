@@ -41,7 +41,7 @@ Create some environment variables containing your Cloudant and ElasticSearch cre
 
 Then run the deployment script:
 
-   ./deploy.sh
+    ./deploy.sh
    
 ## Undeploying
 
